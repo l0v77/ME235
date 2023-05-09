@@ -4,7 +4,7 @@ Labview GUI for the ME235 class fulfillment, based on my capstone project. More 
 
 # Project Description
 
-The project is based on the capstone project from this [repol](https://github.com/l0v77/Cap_Project_Jetbot), with the documentation coude be found [here](https://jetbot-team.gitbook.io/jetbot-team-2022-2023/) with its corresponding [repo](https://github.com/l0v77/JetbotDocumentation).
+The project is based on the capstone project from this [repo](https://github.com/l0v77/Cap_Project_Jetbot), with the documentation coude be found [here](https://jetbot-team.gitbook.io/jetbot-team-2022-2023/) with its corresponding [repo](https://github.com/l0v77/JetbotDocumentation).
 
 The project is a GUI for the ME235 class fulfillment, with the following features:
 
