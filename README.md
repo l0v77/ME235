@@ -12,4 +12,4 @@ The project is a GUI for the ME235 class fulfillment, with the following feature
 - [x] Execute the autonomous mode with one button click in the GUI
 - [x] Visualize the camera feed in the GUI, with corresponding tracking of the jetbot
 
-[![ME235 Demo](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=5FzhHX7Me28&t)
+[![ME235 Demo](https://img.youtube.com/vi/5FzhHX7Me28&t/0.jpg)](https://www.youtube.com/watch?v=5FzhHX7Me28&t)
